@@ -1,4 +1,4 @@
-### 4. Классификация изображений пород собак (Computer Vision)
+### Классификация изображений пород собак (Computer Vision)
 **Технологии**: Python, PyTorch, CNN, ResNet18, Transfer Learning, Selenium
 
 - Собрал датасет из 1000 изображений 4 категорий через веб-скрапинг с использованием Selenium
